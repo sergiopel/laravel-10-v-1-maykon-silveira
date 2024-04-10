@@ -71,6 +71,7 @@ return [
 
     'timezone' => 'America/Sao_Paulo',
 
+
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
